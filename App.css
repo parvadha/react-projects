@@ -1,0 +1,11 @@
+.msg
+{
+  text-align: center;
+}
+.profile
+{
+  width:200px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
